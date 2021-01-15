@@ -1,4 +1,4 @@
-This repo contains a report of my traits and character based on 9 different categories.
+This repo contains a report of my traits based on 9 different categories.
 
 I happen to show uniqueness in 3 categories.
 
